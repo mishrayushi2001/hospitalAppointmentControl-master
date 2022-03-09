@@ -1,0 +1,7 @@
+xhtml2pdf
+django
+django-widget-tweaks
+django-crispy-forms
+sqlparse
+whitenoise
+psycopg2-binary
